@@ -1,4 +1,7 @@
 {
-	"full_name": "",
-	"email":""
+	"project_name": "project_1",
+	"user_complete_name":"Andrew NG",
+	"user_acronym":"ang",
+	"hypothesis_name":"a",
+	"hypothesis_snakecase": "{{ cookiecutter.hypothesis_name.lower().replace(' ','_') }}"
 }
